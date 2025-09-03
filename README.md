@@ -16,16 +16,18 @@ I'm a Data & AI enthusiast based in France, with a passion for open-source techn
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" title="Amazon Web Services" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="50" height="50"/>
 </p>
 
 ### Data & AI Tools
 <p align="left">
-<img src="https://img.shields.io/badge/Dify-155EEF?style=for-the-badge&logo=dify&logoColor=white" alt="Dify" title="Dify"/>
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/packages/static-png/light/gemini.png" alt="Gemini" title="Google Gemini" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@latest/packages/static-png/light/claude.png" alt="Claude" title="Anthropic Claude" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/langgenius/dify/main/web/public/logo/logo-site.png" alt="Dify" title="Dify" width="90" height="50"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Gemini" title="Google Gemini" width="50" height="50"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude" title="Anthropic Claude" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse" title="ClickHouse" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="50" height="50"/>
+</p>
 </p>
 
 ### Development & DevOps
