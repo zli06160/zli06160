@@ -12,14 +12,14 @@ I'm a Data & AI enthusiast based in France, with a passion for open-source techn
   <img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" width="50" height="50"/>
 </p>
 
-### Cloud Platforms
+### Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" title="Google Cloud Platform" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" title="Amazon Web Services" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="50" height="50"/>
 </p>
 
-### Data & AI Tools
+### AI & Data 
 <p align="left">
   <img src="https://raw.githubusercontent.com/langgenius/dify/main/web/public/logo/logo-site.png" alt="Dify" title="Dify" width="90" height="50"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" alt="Gemini" title="Google Gemini" width="50" height="50"/>
@@ -30,7 +30,7 @@ I'm a Data & AI enthusiast based in France, with a passion for open-source techn
 </p>
 </p>
 
-### Development & DevOps
+### Dev & Ops
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" width="50" height="50"/>
